@@ -34,4 +34,5 @@ public class ContactenBeheer
         // Voorbeeld: beheer.VoegContactToe("Jan Jansen", "0612345678");
         // Voorbeeld: beheer.ToonAlleContacten();
     }
+    // dit is een test
 }
